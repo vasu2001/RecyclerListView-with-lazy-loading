@@ -1,0 +1,4 @@
+#Sun May 03 01:08:26 IST 2020
+base.0=/home/vasu/Documents/demo_app/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
